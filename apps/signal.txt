@@ -1,0 +1,7 @@
+; App: Signal Messaging App
+; Last Updated: 
+; Source: https://support.signal.org/hc/en-us/articles/360007320291-Firewall-and-Internet-settings
+*.whispersystems.org
+*.signal.org
+turn2.voip.signal.org
+sfu.voip.signal.org
