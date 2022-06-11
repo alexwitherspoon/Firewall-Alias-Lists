@@ -1,0 +1,5 @@
+; App: Slack
+; Last Updated: June 11 2022
+; Source: https://slack.com/help/articles/360001603387-Manage-Slack-connection-issues
+; IP Txt File: https://reactivex.slack.com/help/urls
+https://reactivex.slack.com/help/urls

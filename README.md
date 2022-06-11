@@ -12,5 +12,6 @@ PRs are welcomed, I am always trying to keep this up to date and relatively usef
 These URLs below link to the raw content for each list, which can be added to various URl Table aliases of your choosing.
 
 - Apps
-  - [Zoom.us](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
   - [Signal](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/signal.txt)
+  - [Slack](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/slack.txt)
+  - [Zoom.us](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
