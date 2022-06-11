@@ -1,22 +1,45 @@
 ; App: Signal Messaging App
 ; Last Updated: June 11, 2022
 ; Source: https://support.signal.org/hc/en-us/articles/360007320291-Firewall-and-Internet-settings
+;
+; *.signal.org
+;
 signal.org
-chat.staging.signal.org
-science.signal.org
+www.signal.org
+api.backup.signal.org
+cdn.signal.org
+cdn-ca.signal.org
+cdn-staging.signal.org
+cdn2.signal.org
+cdn2-staging.signal.org
 chat.signal.org
+contentproxy.signal.org
+api.directory.signal.org
+science.signal.org
+shop.signal.org
 status.signal.org
-stripe.api.signal.org
+storage.signal.org
+storage-staging.signal.org
+support.signal.org
+ud-chat.signal.org
+updates.signal.org
+updates2.signal.org
+uptime.signal.org
 sfu.voip.signal.org
 turn2.voip.signal.org
-api.az.infra-staging.directory.signal.org
-desktop.build.internal.signal.org
-api.backup.signal.org
-api.az.infra.directory.signal.org
-uptime.signal.org
-www.signal.org
-contentproxy.signal.org
-support.whispersystems.org
-textsecure-service-ca.whispersystems.org
+;
+; *.whispersystems.org
+;
 whispersystems.org
 www.whispersystems.org
+bithub.whispersystems.org
+giphy-proxy-production.whispersystems.org
+master.whispersystems.org
+redphone-master.whispersystems.org
+relay.whispersystems.org
+support.whispersystems.org
+textsecure-service.whispersystems.org
+textsecure-service-ca.whispersystems.org
+textsecure-service-staging.whispersystems.org
+turn-eu-central-1.whispersystems.org
+turn1.whispersystems.org
