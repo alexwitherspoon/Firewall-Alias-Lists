@@ -22,4 +22,6 @@ These URLs txt lists below link to the raw content for each list, which can be a
 
 - Services
   - [https://1.1.1.1/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-cloudflare.txt)
+  - [https://apple.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/apple.com.txt)
+  - [https://icloud.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/icloud.com.txt)
   - [https://developers.google.com/speed/public-dns](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-google.txt)
