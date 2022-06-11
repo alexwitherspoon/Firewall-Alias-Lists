@@ -17,4 +17,4 @@ These URLs txt lists below link to the raw content for each list, which can be a
   - [https://zoom.us/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
 
 - Games
-  - [wargaming.net](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
+  - [https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
