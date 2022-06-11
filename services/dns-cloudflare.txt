@@ -1,0 +1,11 @@
+; App: Cloudflare DNS
+; Last Updated: June 11, 2022
+; Source: https://1.1.1.1/dns/
+; IP Txt File: NA
+;
+; Cloudflare DNS
+;
+1.1.1.1
+1.0.0.1 
+2606:4700:4700::1111
+2606:4700:4700::1001

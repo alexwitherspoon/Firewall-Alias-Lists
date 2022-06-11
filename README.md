@@ -19,3 +19,7 @@ These URLs txt lists below link to the raw content for each list, which can be a
 
 - Games
   - [https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
+
+- Services
+  - [https://1.1.1.1/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-cloudflare.txt)
+  - [https://developers.google.com/speed/public-dns](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-google.txt)
