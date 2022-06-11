@@ -1,5 +1,5 @@
 ; App: Signal Messaging App
-; Last Updated: 
+; Last Updated: June 11, 2022
 ; Source: https://support.signal.org/hc/en-us/articles/360007320291-Firewall-and-Internet-settings
 *.whispersystems.org
 *.signal.org
