@@ -1,6 +1,6 @@
-; IPs Found from Zoom Support Article
+; App: Zoom.us
 ; Last Updated: May 16, 2022
-; https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
+; Source: https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
 3.7.35.0/25
 3.21.137.128/25
 3.22.11.0/24
