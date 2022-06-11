@@ -16,3 +16,7 @@ api.az.infra.directory.signal.org
 uptime.signal.org
 www.signal.org
 contentproxy.signal.org
+support.whispersystems.org
+textsecure-service-ca.whispersystems.org
+whispersystems.org
+www.whispersystems.org
