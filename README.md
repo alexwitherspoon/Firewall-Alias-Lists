@@ -8,3 +8,6 @@ I am focusing on QOS/Wan Selection in a Multiwan environment, Firewalling, and A
 > Warning - Be very careful importing lists of IPs/Names etc from sources you don't trust, or sources you don't control. This repo is easily forked so you can choose to accept upstream content when you decide you want it. You've been warned!
 
 PRs are welcomed, I am always trying to keep this up to date and relatively useful for what it's purpose is. 
+
+- Apps
+  - [Zoom.us](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
