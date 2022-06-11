@@ -1,5 +1,5 @@
 ; App: Zoom.us
-; Last Updated: May 16, 2022
+; Last Updated: June 11, 2022
 ; Source: https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
 ; IP Txt File: https://assets.zoom.us/docs/ipranges/Zoom.txt
 *.zoom.us
