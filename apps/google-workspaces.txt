@@ -1,0 +1,59 @@
+; App: Google Workspaces
+; Last Updated: June 11, 2022
+; Source: https://support.google.com/a/answer/9750297?product_name=UnuFlow&hl=en&visit_id=637905733180736326-3147628926&rd=1&src=supportwidget0&hl=en
+; IP Txt File: NA
+;
+; Google Meet IPs
+;
+74.125.250.0/24
+142.250.82.0/24
+;
+; Google WorkSpace URLs
+;
+accounts.google.com
+apis.google.com
+contacts.google.com
+hangouts.google.com
+mail.google.com
+ssl.gstatic.com
+www.google.com
+www.gstatic.com
+ogs.google.com
+play.google.com
+www.google.com
+accounts.google.com
+googledrive.com
+drive.google.com
+docs.google.com
+sheets.google.com
+slides.google.com
+talk.google.com
+takeout.google.com
+gg.google.com
+script.google.com
+ssl.google-analytics.com
+video.google.com
+s.ytimg.com
+apis.google.com
+inputtools.google.com
+sites.google.com
+ipv4.google.com
+;
+; Wildcard URLs
+;
+*.client-channel.google.com
+*.googleusercontent.com
+clients*.google.com
+*.drive.google.com
+*.docs.google.com
+*.c.docs.google.com
+*.clients[N].google.com
+*.googleapis.com
+*.googleusercontent.com
+*.gstatic.com
+*.gvt1.com
+lh[N].google.com
+[N].client-channel.google.com
+clients[N].google.com
+*.sites.google.com
+*.googlegroups.com
