@@ -1,7 +1,18 @@
 ; App: Signal Messaging App
 ; Last Updated: June 11, 2022
 ; Source: https://support.signal.org/hc/en-us/articles/360007320291-Firewall-and-Internet-settings
-*.whispersystems.org
-*.signal.org
-turn2.voip.signal.org
+signal.org
+chat.staging.signal.org
+science.signal.org
+chat.signal.org
+status.signal.org
+stripe.api.signal.org
 sfu.voip.signal.org
+turn2.voip.signal.org
+api.az.infra-staging.directory.signal.org
+desktop.build.internal.signal.org
+api.backup.signal.org
+api.az.infra.directory.signal.org
+uptime.signal.org
+www.signal.org
+contentproxy.signal.org
