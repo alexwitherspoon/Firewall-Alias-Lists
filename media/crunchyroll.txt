@@ -1,4 +1,4 @@
-; App: App Name
+; App: Crunchyroll
 ; Last Updated: June 13, 2022
 ; Source: NA
 ; IP Txt File: NA
