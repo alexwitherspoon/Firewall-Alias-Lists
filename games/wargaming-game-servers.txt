@@ -1,0 +1,65 @@
+; App: Wargaming.net Game Servers
+; Last Updated: June 13, 2022
+; Source: https://wiki.wargaming.net/en/Servers
+; IP Txt File: NA
+worldoftank.com
+;
+; *.Wargaming.net
+;
+login.wargaming.net
+wagaming.net
+wotna1.login.wargaming.net
+wotna2.login.wargaming.net
+wotna3.login.wargaming.net
+wotna4.login.wargaming.net
+;
+; *.worldofwarships.com
+;
+eu.worldofwarships.com
+lc.worldofwarships.com
+na.worldofwarships.com
+obt.worldofwarships.com
+ru.worldofwarships.com
+sp.worldofwarships.com
+st.worldofwarships.com
+;
+; *.worldoftanks.net
+;
+login-ct.worldoftanks.net
+login-ct-p1.worldoftanks.net
+login-ct-p2.worldoftanks.net
+login2-ct-p2.worldoftanks.net
+login.p1.worldoftanks.net
+login2.p1.worldoftanks.net
+login.p10.worldoftanks.net
+login2.p10.worldoftanks.net
+login.p11.worldoftanks.net
+login.p2.worldoftanks.net
+login2.p2.worldoftanks.net
+login.p3.worldoftanks.net
+login2.p3.worldoftanks.net
+login.p4.worldoftanks.net
+login2.p4.worldoftanks.net
+login.p5.worldoftanks.net
+login2.p5.worldoftanks.net
+login.p6.worldoftanks.net
+login2.p6.worldoftanks.net
+login.p7.worldoftanks.net
+login2.p7.worldoftanks.net
+login.p8.worldoftanks.net
+login2.p8.worldoftanks.net
+login.p9.worldoftanks.net
+login2.p9.worldoftanks.net
+;
+; *.worldoftanks.eu
+;
+login.p1.worldoftanks.eu
+login.p2.worldoftanks.eu
+login.p3.worldoftanks.eus
+;
+; Chinese IPs
+;
+221.192.143.171
+114.80.73.86
+61.188.177.45
+183.61.253.44
