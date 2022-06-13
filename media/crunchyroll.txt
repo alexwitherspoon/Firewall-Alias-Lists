@@ -2,4 +2,29 @@
 ; Last Updated: June 13, 2022
 ; Source: NA
 ; IP Txt File: NA
+api-manga.crunchyroll.com
+api.crunchyroll.com
+bento.crunchyroll.com
+beta-api.crunchyroll.com
+beta-stage.crunchyroll.com
+beta.crunchyroll.com
+cms-manga.crunchyroll.com
+cms.crunchyroll.com
 crunchyroll.com
+expo.crunchyroll.com
+faspex.crunchyroll.com
+ftp-upload.crunchyroll.com
+it-vpn-etp-internal.crunchyroll.com
+o1482.em.mail.crunchyroll.com
+o1483.em.mail.crunchyroll.com
+overloaded.crunchyroll.com
+partnerfeed.crunchyroll.com
+rules.crunchyroll.com
+secure.crunchyroll.com
+shop.crunchyroll.com
+stage-secure.crunchyroll.com
+stage.crunchyroll.com
+support.crunchyroll.com
+upload.crunchyroll.com
+www.crunchyroll.com
+www.expo.crunchyroll.com
