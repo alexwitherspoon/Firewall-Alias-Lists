@@ -24,6 +24,7 @@ These URLs txt lists below link to the raw content for each list, which can be a
   - [Steam](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/steam.txt)
 
 - Media
+  - [Crunchyroll.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/crunchyroll.txt)
   - [Netflix.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/netflix.txt)
   - [Youtube.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/youtube.txt)
 
