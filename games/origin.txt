@@ -1,0 +1,28 @@
+; App: origin.com
+; Last Updated: June 13, 2022
+; Source: NA
+; IP Txt File: NA
+account.origin.com
+account.preprod.origin.com
+activate.origin.com
+checkout.alpha.origin.com
+checkout.staging.origin.com
+dev.dfw.origin.com
+dev2.sso.origin.com
+developer.origin.com
+dm.origin.com
+e4894.e12.akamaiedge.net
+free.origin.com
+integration.connect.origin.com
+integration.sso.origin.com
+loadtest.ecommerce2.dm.origin.com
+m.origin.com
+origin.com
+original-checkout.alpha.origin.com
+prometheus.x.origin.com
+reporting.origin.com
+sso.origin.com
+stage.connect.origin.com
+stage.sso.origin.com
+test.dfw.origin.com
+test.sso.origin.com
