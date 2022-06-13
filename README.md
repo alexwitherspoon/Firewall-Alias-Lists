@@ -23,6 +23,9 @@ These URLs txt lists below link to the raw content for each list, which can be a
   - [wargaming.net - Update Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-update-servers.txt)
   - [Steam](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/steam.txt)
 
+- Media
+  - [Youtube.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/youtube.txt)
+
 - Services
   - [1.1.1.1](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-cloudflare.txt)
   - [apple.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/apple.com.txt)
