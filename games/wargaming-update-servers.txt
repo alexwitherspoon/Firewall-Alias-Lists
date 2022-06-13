@@ -1,0 +1,22 @@
+; App: Wargaming.net Update Content Servers
+; Last Updated: June 13, 2022
+; Source: https://wiki.wargaming.net/en/Servers
+; IP Txt File: NA
+;
+; *.wargaming.net
+;
+dht.wargaming.net
+gn-upload-1.wargaming.net
+upload.wargaming.net
+;
+; *.worldofwarships.com
+;
+static-upd-v4r4h10x.worldofwarships.com
+static-wguscs.worldofwarships.com
+update.worldofwarships.com
+update-v4r4h10x.worldofwarships.com
+;
+; *.worldoftanks.net
+;
+static-upd-ct.worldoftanks.net
+update-ct.worldoftanks.net
