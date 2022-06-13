@@ -1,0 +1,5 @@
+; App: Mahjong Soul
+; Last Updated: June 13, 2022
+; Source: https://mahjongsoul.yo-star.com/ & https://apps.apple.com/us/app/mahjong-soul/id1464872167a
+; IP Txt File: NA
+yo-star.com

@@ -18,6 +18,7 @@ These URLs txt lists below link to the raw content for each list, which can be a
   - [zoom.us](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
 
 - Games
+  - [Mahjong Soul](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/mahjongsoul.txt)
   - [wargaming.net - All Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
   - [wargaming.net - Game Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-game-servers.txt)
   - [wargaming.net - Update Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-update-servers.txt)
