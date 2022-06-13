@@ -26,6 +26,7 @@ These URLs txt lists below link to the raw content for each list, which can be a
 - Media
   - [Crunchyroll.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/crunchyroll.txt)
   - [Netflix.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/netflix.txt)
+  - [Twitch.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/twitch.txt)
   - [Youtube.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/media/youtube.txt)
 
 - Services
