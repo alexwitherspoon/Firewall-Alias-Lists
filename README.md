@@ -18,7 +18,11 @@ These URLs txt lists below link to the raw content for each list, which can be a
   - [https://zoom.us/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
 
 - Games
-  - [https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
+  - [All Servers - https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
+  - [Game Servers - https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-game-servers.txt)
+  - [Update Servers - https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-update-servers.txt)
+
+
 
 - Services
   - [https://1.1.1.1/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-cloudflare.txt)
