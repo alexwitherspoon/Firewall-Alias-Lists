@@ -1,5 +1,5 @@
-; App: Wargaming.net
-; Last Updated: June 11, 2022
+; App: Wargaming.net All Servers
+; Last Updated: June 13, 2022
 ; Source: https://wiki.wargaming.net/en/Servers
 ; IP Txt File: NA
 ;
