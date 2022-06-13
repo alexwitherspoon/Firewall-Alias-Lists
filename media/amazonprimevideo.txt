@@ -1,0 +1,21 @@
+; App: Amazon Prime Video
+; Last Updated: June 13, 2022
+; Source: NA
+; IP Txt File: NA
+aiv-cdn.net
+aiv-delivery.net
+amazonvideo.com
+atv-ext.amazon.com
+atv-ext-eu.amazon.com
+atv-ext-fe.amazon.com
+atv-ps.amazon.com
+atv-ps-eu.amazon.com
+atv-ps-eu.amazon.co.uk
+atv-ps-fe.amazon.co.jp
+atv-ps-fe.amazon.com
+primevideo.com
+pv-cdn.net
+aiv-cdn.net.c.footprint.net
+amazondsrw.s.llnwi.net
+d1y002tclu9djj.cloudfront.net
+dualstack.pefs-alb-266603904.eu-west-1.elb.amazonaws.com
