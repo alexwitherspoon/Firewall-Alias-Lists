@@ -2,4 +2,25 @@
 ; Last Updated: June 13, 2022
 ; Source: https://mahjongsoul.yo-star.com/ & https://apps.apple.com/us/app/mahjong-soul/id1464872167a
 ; IP Txt File: NA
+ac.yo-star.com
+adjust.callback.sg.yo-star.com
+adjust.callback.us.yo-star.com
+adjust.callback.yo-star.com
+annual-report.mahjongsoul.game.yo-star.com
+azurlane.yo-star.com
+azurusapi.yo-star.com
+azurusapitest.yo-star.com
+ba-cn-dev.yo-star.com
+blhxusgate.yo-star.com
+blhxusgs2api.yo-star.com
+blhxusgs4api.yo-star.com
+blhxusgs5api.yo-star.com
+blhxusproxy.yo-star.com
+doc.yo-star.com
+mahjongsoul.yo-star.com
+revivedwitch.yo-star.com
+rw-kr-sdk.yo-star.com
+uc.yo-star.com
+uspassportadmin.yo-star.com
+www.yo-star.com
 yo-star.com
