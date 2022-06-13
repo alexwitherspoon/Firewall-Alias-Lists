@@ -1,0 +1,6 @@
+; App: Tmobile Wifi Voice Calling
+; Last Updated: June 13, 2022
+; Source: https://www.t-mobile.com/support/coverage/wi-fi-calling-on-a-corporate-network
+; IP Txt File: NA
+208.54.0.0/16
+66.94.0.0/19
