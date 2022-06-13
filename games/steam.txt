@@ -1,0 +1,11 @@
+; App: Steam (Valve)
+; Last Updated: June 13, 2022
+; Source: https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
+; IP Txt File: URL to Source
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
+steamcontent.com
+steamstatic.com
+akamaihd.net

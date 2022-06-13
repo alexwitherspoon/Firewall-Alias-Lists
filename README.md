@@ -12,20 +12,19 @@ PRs are welcomed, I am always trying to keep this up to date and relatively usef
 These URLs txt lists below link to the raw content for each list, which can be added to various URl Table aliases of your choosing.
 
 - Apps
-  - [https://workspace.google.com/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/google-workspaces.txt)
-  - [https://signal.org/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/signal.txt)
-  - [https://slack.com/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/slack.txt)
-  - [https://zoom.us/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
+  - [workspace.google.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/google-workspaces.txt)
+  - [signal.org](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/signal.txt)
+  - [slack.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/slack.txt)
+  - [zoom.us](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/apps/zoom.txt)
 
 - Games
-  - [All Servers - https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
-  - [Game Servers - https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-game-servers.txt)
-  - [Update Servers - https://wargaming.net/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-update-servers.txt)
-
-
+  - [wargaming.net - All Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming.txt)
+  - [wargaming.net - Game Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-game-servers.txt)
+  - [wargaming.net - Update Servers](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/wargaming-update-servers.txt)
+  - [Steam](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/games/steam.txt)
 
 - Services
-  - [https://1.1.1.1/](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-cloudflare.txt)
-  - [https://apple.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/apple.com.txt)
-  - [https://icloud.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/icloud.com.txt)
-  - [https://developers.google.com/speed/public-dns](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-google.txt)
+  - [1.1.1.1](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-cloudflare.txt)
+  - [apple.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/apple.com.txt)
+  - [icloud.com](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/icloud.com.txt)
+  - [Google DNS](https://raw.githubusercontent.com/alexwitherspoon/Firewall-Alias-Lists/main/services/dns-google.txt)
