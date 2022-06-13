@@ -6,6 +6,7 @@ antonws.icloud.com
 apple-cloudkit.com
 apple-icloud.cn
 appleicloud.cn
+e10489.a.akamaiedge.net
 ic1-wopi.icloud.com
 ic2-wopi.icloud.com
 ic3-wopi.icloud.com
