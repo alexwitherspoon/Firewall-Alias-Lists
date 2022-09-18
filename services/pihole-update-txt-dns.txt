@@ -1,0 +1,6 @@
+; PiHole DNS Servers used for Update Validation
+; Last Updated: 09-17-2022
+; Source: NA
+; IP Txt File: NA
+ns1.pi-hole.net
+ns2.pi-hole.net
